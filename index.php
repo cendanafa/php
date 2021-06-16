@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Contoh Membuat Halaman Web Dinamis</title>
+	<title>Membuat Web Dinamis</title>
 	<!-- menghubungkan dengan file css -->
 	<link rel="stylesheet" type="text/css" href="style.css">
 	<!-- menghubungkan dengan file jquery -->
