@@ -10,7 +10,7 @@
 <body>
 <div class="content">
 	<header>
-		<h1 class="judul">BLA BLA</h1>
+		<h1 class="judul">Website</h1>
 		<h3 class="deskripsi">Membuat Halaman Web Dinamis Dengan PHP</h3>
 	</header>
 
